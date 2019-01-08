@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaData.cpp
+DnaData.h
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaData.h
+
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaData.h
+DnaMetaData.h
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaMetaData.h
+map
+-
+utility
+-
+
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaMetaData.h
+DnaSequence.h
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaSequence.h
+glob.h
+-
+string
+-
+
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/DnaSequence.h
+string
+-
+cstring
+-
+

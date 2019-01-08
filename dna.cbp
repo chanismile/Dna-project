@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dna"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cglick/excellenteam-ella-c-dna-chanismile/dna"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cglick/excellenteam-ella-c-dna-chanismile/dna"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dna">
+				<Option output="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/dna" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cglick/excellenteam-ella-c-dna-chanismile/dna"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 dna"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dna/fast">
+				<Option output="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/dna" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cglick/excellenteam-ella-c-dna-chanismile/dna"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 dna/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cglick/excellenteam-ella-c-dna-chanismile/dna"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cglick/excellenteam-ella-c-dna-chanismile/dna/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Command.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Command.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Controller.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Controller.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/FactoryCommand.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/FactoryCommand.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Load.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Load.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/New.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/New.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Show.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/Show.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/save.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/controller/save.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/main.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaData.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaData.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaMetaData.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaMetaData.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaReaderText.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaReaderText.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaSequence.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaSequence.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaWriter.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/DnaWriter.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/Idna.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/Nucleotide.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/model/Nucleotide.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/view/Cmd.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/view/Cmd.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/view/CommandParser.cpp">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/view/CommandParser.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/view/UI.h">
+			<Option target="dna"/>
+		</Unit>
+		<Unit filename="/home/cglick/excellenteam-ella-c-dna-chanismile/dna/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

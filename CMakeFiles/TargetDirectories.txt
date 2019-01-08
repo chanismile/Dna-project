@@ -1,0 +1,3 @@
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/CMakeFiles/rebuild_cache.dir
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/CMakeFiles/dna.dir
+/home/cglick/excellenteam-ella-c-dna-chanismile/dna/CMakeFiles/edit_cache.dir
